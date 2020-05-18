@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git-task-manager/static/css/main.8eb78f1c.chunk.css",
+    "main.js": "/git-task-manager/static/js/main.c4cec3ca.chunk.js",
+    "main.js.map": "/git-task-manager/static/js/main.c4cec3ca.chunk.js.map",
+    "runtime-main.js": "/git-task-manager/static/js/runtime-main.f9c3f7f0.js",
+    "runtime-main.js.map": "/git-task-manager/static/js/runtime-main.f9c3f7f0.js.map",
+    "static/js/2.08ba0362.chunk.js": "/git-task-manager/static/js/2.08ba0362.chunk.js",
+    "static/js/2.08ba0362.chunk.js.map": "/git-task-manager/static/js/2.08ba0362.chunk.js.map",
+    "index.html": "/git-task-manager/index.html",
+    "precache-manifest.8183fac3e89e45bfebc360c4f0991c44.js": "/git-task-manager/precache-manifest.8183fac3e89e45bfebc360c4f0991c44.js",
+    "service-worker.js": "/git-task-manager/service-worker.js",
+    "static/css/main.8eb78f1c.chunk.css.map": "/git-task-manager/static/css/main.8eb78f1c.chunk.css.map",
+    "static/js/2.08ba0362.chunk.js.LICENSE.txt": "/git-task-manager/static/js/2.08ba0362.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9c3f7f0.js",
+    "static/js/2.08ba0362.chunk.js",
+    "static/css/main.8eb78f1c.chunk.css",
+    "static/js/main.c4cec3ca.chunk.js"
+  ]
+}
